@@ -31,13 +31,10 @@ This page shows saved posts of users
 
 ## 👥 Contact
 
-- Name: Phinihas
-- Email: phinihasgandi@gmail.com
-- Phone: +91 7995802047
-- Location: Kakinada, Andhra Pradesh, India
+- Name: Bhargav
+- Email: pittabhargav8@gmail.com
+- Phone: +91 9381167477
+- Location: Vizianagaram, Andhra Pradesh, India
 
-## 📱 Social Media
 
-- Instagram: https://www.instagram.com/phinihasgandi/
-- Twitter: https://x.com/GandiPhinihas
 
